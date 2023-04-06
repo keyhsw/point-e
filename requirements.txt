@@ -1,2 +1,5 @@
 git+https://github.com/openai/point-e
 plotly
+gradio
+tqdm
+plotly
